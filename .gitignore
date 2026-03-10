@@ -1,0 +1,9 @@
+*.csv
+*.zip
+data/
+*.xlsx
+*.DS_Store
+*.txt
+*.db
+*.pyc
+.env
