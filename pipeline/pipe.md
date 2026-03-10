@@ -12,3 +12,6 @@
 ## to-do (for me):
 - Send Julie example summaries from clusteing pipeline where we generate summaries for dates, victims, officers, and case ids. 
 - Can we resolve agen
+
+# local d2 dir 
+Desktop/clean-d2
